@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1773969054110,"sparkVersion":"3.5.3","uid":"VectorAssembler_812276915837","paramMap":{"outputCol":"features","inputCols":["bedrooms","surface","floors"]},"defaultParamMap":{"outputCol":"VectorAssembler_812276915837__output","handleInvalid":"error"}}
